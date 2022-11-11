@@ -42,4 +42,6 @@ All installations have been incorporated into the code itself. No installations 
 
 Please note that we had worked on Google Colab and uploaded the files to Github after confirming our models. The commits to this repository do not reflect the group contributions of all the members toward this project. All group members contributed equally to this project.
 
+## Submission issues
 
+The video named REINFORCE.mp4 in the Moodle Submission was incorrectly named and contains the Best Run for DQN. There should be two agent videos: one for DQN and another for REINFORCE, as seen in this repository.
