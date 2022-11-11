@@ -2,7 +2,12 @@
 ## COMS4061A MiniHack the Planet Assignment
 
 **REINFORCE with Baselines**
+
+
 ![](https://github.com/Harushii18/RLAssignment/blob/main/REINFORCE.gif)
+
+
+
 **DQN**
 ![](https://github.com/Harushii18/RLAssignment/blob/main/DQN%20GIF.gif)
 
