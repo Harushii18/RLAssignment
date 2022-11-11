@@ -9,7 +9,7 @@
 
 ## About the Project
 
-MiniHack is a powerful sandbox framework for easily designing novel RL environments ranging from small rooms to complex, procedurally generated worlds. By leveraging the full set of entities and environment dynamics from NetHack,1 one of the richest grid-based video games, MiniHack allows designing custom RL testbeds that are fast and convenient to use.
+MiniHack is a powerful sandbox framework for easily designing novel RL environments ranging from small rooms to complex, procedurally generated worlds. By leveraging the full set of entities and environment dynamics from NetHack, one of the richest grid-based video games, MiniHack allows designing custom RL testbeds that are fast and convenient to use.
 
 ![Image of quest hard environment](https://minihack.readthedocs.io/en/latest/_images/quest_hard.png)
 
@@ -35,7 +35,7 @@ Three agents were chosen to navigate the dungeon and were based on the following
 
 ## Installation information
 
-All installations have been incorporated into the code itself. No installations are required if the code is run on Google Colab. Should one decide to run it locally, it is recommended that the code is run on a Linux (Ubuntu) operating system and all sudo apt updates that are in the code are run on the terminal. 
+All installations have been incorporated into the code itself. No installations are required if the code is run on Google Colab. Should one decide to run it locally, it is recommended that the code is run on a Linux (Ubuntu) operating system and all sudo apt updates that are in the code are run on the terminal. This code also relies heavily on [NLE](https://github.com/facebookresearch/nle) and [MiniHack](https://github.com/facebookresearch/minihack). The following article helped with NLE installation issues: [NLE Issue 117](https://github.com/facebookresearch/nle/issues/117) 
 
 
 ## Contributions
