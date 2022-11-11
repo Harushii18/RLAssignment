@@ -3,7 +3,7 @@
 
 # Project in Action
 ![](https://github.com/Harushii18/RLAssignment/blob/main/REINFORCE.gif)
-![](https://github.com/Harushii18/RLAssignment/blob/main/REINFORCE.gif)
+![](https://github.com/Harushii18/RLAssignment/blob/main/DQN.gif)
 
 
 
