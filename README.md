@@ -1,6 +1,12 @@
 # Reinforcement Learning
 ## COMS4061A MiniHack the Planet Assignment
 
+# Project in Action
+![](https://github.com/Traffic-Monitoring/traffic_monitoring.gif)
+![](https://github.com/FeziweMelvin/Traffic-Monitoring/blob/main/traffic_monitoring.gif)
+
+
+
 **Group members:**
 - Feziwe Melvin Shongwe (2135313)
 - Phola Bavuma (1848739)
