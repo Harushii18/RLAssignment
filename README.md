@@ -2,8 +2,8 @@
 ## COMS4061A MiniHack the Planet Assignment
 
 # Project in Action
-![](https://github.com/Traffic-Monitoring/traffic_monitoring.gif)
-![](https://github.com/FeziweMelvin/Traffic-Monitoring/blob/main/traffic_monitoring.gif)
+![](https://github.com/Harushii18/RLAssignment/blob/main/REINFORCE.gif)
+![](https://github.com/Harushii18/RLAssignment/blob/main/REINFORCE.gif)
 
 
 
